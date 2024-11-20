@@ -7,6 +7,9 @@ This project explores various methods for predicting the authorship of blog post
 # Project Overview
  
 With the advent of digital content creation, the ability to attribute authorship to anonymous or pseudonymous texts has gained importance. This project aims to develop and compare different machine learning models to predict the author of a given blog post.
+Here we classified the blog based on the authors attribute for eg their gender , their age.
+And also classify all the blog based on content in it ...which topic blog is wriiten on .
+
 
 # Features
 
